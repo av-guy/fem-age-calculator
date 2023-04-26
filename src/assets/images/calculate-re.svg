@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 32.657 37.392" xmlns="http://www.w3.org/2000/svg">
+  <g id="Layer_1" transform="matrix(1, 0, 0, 1, 210.039963, 161.867188)">
+    <g>
+      <rect height="8.109" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" width="28.254" x="-207.979" y="-160.792" style=""/>
+      <rect height="26.424" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" width="28.254" x="-207.979" y="-152.682" style=""/>
+      <line stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" x1="-203.737" x2="-197.997" y1="-145.088" y2="-145.088" style=""/>
+      <line stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" x1="-189.518" x2="-183.34" y1="-145.088" y2="-145.088" style=""/>
+      <line stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" x1="-203.156" x2="-198.578" y1="-132.409" y2="-132.409" style=""/>
+      <line stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" x1="-200.867" x2="-200.867" y1="-147.958" y2="-142.218" style=""/>
+      <line stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" x1="-188.339" x2="-183.778" y1="-134.69" y2="-130.128" style=""/>
+      <line stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" x1="-183.778" x2="-188.339" y1="-134.69" y2="-130.128" style=""/>
+      <circle cx="-200.867" cy="-134.69" r="0.85" style="fill: rgb(255, 255, 255);"/>
+      <circle cx="-200.867" cy="-130.092" r="0.85" style="fill: rgb(255, 255, 255);"/>
+      <line stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" x1="-193.852" x2="-193.852" y1="-126.258" y2="-152.682" style=""/>
+      <line stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" x1="-207.979" x2="-179.725" y1="-138.601" y2="-138.601" style=""/>
+    </g>
+  </g>
+</svg>

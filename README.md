@@ -48,6 +48,6 @@ avaialble devices out there.
 
 A couple of things I plan on taking care of in the future is a theme for people who
 prefer higher contrast and also a general cleanup of the redundancy between the theme
-properties from the light and dark theme respectively. There are also som performance
+properties from the light and dark theme respectively. There are also some performance
 issues that have been highlighted by Lighthouse that I could definitely take care
 of in the future.
